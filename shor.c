@@ -186,7 +186,6 @@ void collapseRegister1(QReg* reg, int xj, int x, int n){
 
 
 
-
 /*******************************************************************************
 *
 *                               FOURIER TRANSFORM
